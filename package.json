@@ -1,0 +1,12 @@
+{
+  "name": "headchef",
+  "version": "1.0.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pj-software-to/headchef.git"
+  },
+  "devDependencies": {
+    "webpack": "^4.35.2"
+  }
+}
